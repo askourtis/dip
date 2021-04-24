@@ -1,0 +1,9 @@
+# Ignore All
+*
+
+# Except
+!/Exercise1
+!/*.m
+!/*.pdf
+!/.gitignore
+!/readme.md

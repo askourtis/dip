@@ -3,6 +3,7 @@
 
 # Except
 !/Exercise1
+!/Exercise2
 !/*.m
 !/*.pdf
 !/.gitignore
